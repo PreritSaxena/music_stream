@@ -16,7 +16,7 @@ const PlayerContextProvider = (props) => {
         setPlayStatus(true)
     }
 
-    const url = 'http://localhost:4000';
+    const url = 'https://music-stream-backend.onrender.com';
 
      
 
